@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  font-style: bold;
+}
+
+h2{
+  text-align: center;
+  color: green;
+  font-family: sans-serif;
+}
+
+p {
+/*  font-style: italic;*/
+  font-size: 11px;
+}
+
+.flashy {
+  color:red;
+  font-style: italic;
+  font-style: bold;
+}
+
+.best {
+  font-family: cursive;
+  font-size: 40px;
+  color: violet;
+}
