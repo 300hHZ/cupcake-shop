@@ -2,7 +2,7 @@
 
 ### Cupcake shop home page
 
-#### By _Woo Jin Kim & Michael Burton
+#### By _Woo Jin Kim & Michael Burton_
 
 ## Technologies Used
 * html
